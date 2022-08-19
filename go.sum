@@ -1,0 +1,4 @@
+github.com/HansenH/Aho-Corasick v1.0.2 h1:RdRiE/tdBw7aCjKMeOyYHA+pMcq6y8hwxa+DOPLL/6U=
+github.com/HansenH/Aho-Corasick v1.0.2/go.mod h1:bNGszdJ/6K7Wf+bUeA0AaBS590Kq9D2zVFmJBd9Gz+c=
+github.com/paddie/gokmp v0.0.0-20190712102438-5097de8eec69 h1:DIvKOCD8MszfT5VZbt8KBfj0TK7CiDiRz4qJOda0w4Q=
+github.com/paddie/gokmp v0.0.0-20190712102438-5097de8eec69/go.mod h1:twfVZIHN2ytOYh7IFSEthsejo/SnorXii3ZUFdqvDHs=
