@@ -25,6 +25,8 @@ PASS
 ok      test    40.994s
 ```
 
+Note that one op is a loop through the whole book.
+
 ## LICENSE
 
 MIT
